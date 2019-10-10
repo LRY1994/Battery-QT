@@ -1,0 +1,12 @@
+INPUT(
+./release/mainwindow.o
+./release/tree.o
+./release/compute.o
+./release/Lookuptable_data.o
+./release/Lookuptable.o
+./release/spline.o
+./release/exec.o
+./release/main.o
+./release/current.o
+./release/moc_mainwindow.o
+);

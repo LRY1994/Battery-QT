@@ -1,0 +1,12 @@
+INPUT(
+./debug/mainwindow.o
+./debug/tree.o
+./debug/compute.o
+./debug/Lookuptable_data.o
+./debug/Lookuptable.o
+./debug/spline.o
+./debug/exec.o
+./debug/main.o
+./debug/current.o
+./debug/moc_mainwindow.o
+);
